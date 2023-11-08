@@ -1,0 +1,37 @@
+h1{
+    color: #bd2be2;
+    text-shadow: 3px 0px #e396f7;
+}
+
+hr{
+    border-top: 2px solid #c422ec;
+}
+
+#contenedor{
+    position: relative;
+    min-height: 100vh;
+    background: linear-gradient(rgba(5,7,12,0.75), rgba(196, 34, 236,0.75));
+    background-size: cover;
+}
+
+.encima{
+    position: absolute;
+    bottom: 500px;
+    left: 200px;
+}
+
+#uno{
+    position: absolute;
+    bottom: 480px;
+    left: 450px;
+}
+#dos{
+    position: absolute;
+    bottom: 480px;
+    left: 160px;
+}
+#tres{
+    position: absolute;
+    bottom: 480px;
+    left: 40px;
+}
